@@ -1,0 +1,3 @@
+[submodule "liveJsP5js"]
+	path = liveJsP5js
+	url = git@github.com:micuat/liveJsP5js.git
